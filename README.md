@@ -6,7 +6,7 @@
 
 Browse 800+ mods and 7,500+ components. Build a WeiDU.log. Export for [mod_installer](https://github.com/dark0dave/mod_installer) or Project Infinity. Analyze debug logs. Preview NPC portraits. Browse the complete spell, kit, and item catalogs with mod impact tracking. Plan characters with a full interactive character sheet. Check for updates. Scan your mod folder for version mismatches.
 
-> [**Launch the app →**](krion64.github.io)
+URL: https://krion64.github.io/
 
 ## Contents
 
